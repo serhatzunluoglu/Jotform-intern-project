@@ -12,7 +12,6 @@ During my internship at Jotform, we added a feature to the real-time "App Builde
 
 I cannot share the codes we added to the application due to confidentiality. That's why I'm putting screenshots below.
 
----
 #### Contributors: Başak GÜLDÜRMEZ (UI/UX Designer), Serhat İsmail ZUNLUOĞLU (UI Developer), Emre MERT (Front-End Developer), Utku Boran TOSUN (Back-End Developer)
 ---
 ![1](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/fd87f4ab82e1498cabec804777ddad80493801e8/Jotform-Intern-Project.gif)
