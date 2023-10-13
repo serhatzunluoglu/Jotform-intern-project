@@ -8,9 +8,9 @@ Uygulamaya eklediğimiz kodları gizlilik gereği paylaşamıyorum. O yüzden ek
 
 [ENG]
 
-During my internship at Jotform, we added a feature to the real-time "App Builder" application that I worked with my other intern teammates. With this feature, we aimed to make it easier to navigate between pages in multi-page applications. With the search box we added, we see the result for the word we are looking for, and when we click on the result, we go to the page containing that word.
+During my internship at Jotform, I worked with other intern team members to add a feature to the real-time "App Builder" application we were working on. With this feature, we aimed to make it easier to navigate between pages in multi-page apps. The search box we added displays the results for the word we are searching for, and when we click on the result, we go to the page where the word is located.
 
-I cannot share the codes we added to the application due to confidentiality. That's why I'm putting screenshots below.
+I cannot share the code we added to the application for privacy reasons. So I'm putting screenshots below.
 
 #### Contributors: Başak GÜLDÜRMEZ (UI/UX Designer), Serhat İsmail ZUNLUOĞLU (UI Developer), Emre MERT (Front-End Developer), Utku Boran TOSUN (Back-End Developer)
 ---
