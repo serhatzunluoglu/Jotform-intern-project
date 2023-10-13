@@ -5,4 +5,4 @@ Uygulamaya eklediğimiz kodları gizlilik gereği paylaşamıyorum. O yüzden ek
 
 #### Contributors: Başak GÜLDÜRMEZ (UI/UX Designer), Serhat İsmail ZUNLUOĞLU (UI Developer), Emre MERT (Front-End Developer), Utku Boran TOSUN (Back-End Developer)
 
-![1](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/78af3043f1333eaaa9f6fa6169ad641a04722262/Jotform-Intern-Project.mp4)
+![1](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/fd87f4ab82e1498cabec804777ddad80493801e8/Jotform-Intern-Project.gif)
