@@ -6,11 +6,15 @@ Jotform'da stajım boyunca diğer stajyer ekip arkadaşlarımla birlikte yaptı�
 
 Uygulamaya eklediğimiz kodları gizlilik gereği paylaşamıyorum. O yüzden ekran görüntülerini alt kısma koyuyorum !!!
 
+Uygulamanın çalışır halindeki videosu en alt kısımda bulunmaktadır ! 
+
 [ENG]
 
 During my internship at Jotform, I worked with other intern team members to add a feature to the real-time "App Builder" application we were working on. With this feature, we aimed to make it easier to navigate between pages in multi-page apps. The search box we added displays the results for the word we are searching for, and when we click on the result, we go to the page where the word is located.
 
 I cannot share the code we added to the application for privacy reasons. So I'm putting screenshots below !!!
+
+The video of the application in action is at the bottom !
 
 #### Contributors: Başak GÜLDÜRMEZ (UI/UX Designer), Serhat İsmail ZUNLUOĞLU (UI Developer), Emre MERT (Front-End Developer), Utku Boran TOSUN (Back-End Developer)
 ---
