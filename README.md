@@ -14,4 +14,10 @@ I cannot share the code we added to the application for privacy reasons. So I'm 
 
 #### Contributors: Başak GÜLDÜRMEZ (UI/UX Designer), Serhat İsmail ZUNLUOĞLU (UI Developer), Emre MERT (Front-End Developer), Utku Boran TOSUN (Back-End Developer)
 ---
+
+![alt text](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/992d2013453cc5c1bd6fc443687a7f25815c0e8a/jotform-1.png)
+![alt text](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/992d2013453cc5c1bd6fc443687a7f25815c0e8a/jotform-2.png)
+![alt text](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/992d2013453cc5c1bd6fc443687a7f25815c0e8a/jotform-3.png)
+![alt text](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/992d2013453cc5c1bd6fc443687a7f25815c0e8a/jotform-4.png)
+
 ![1](https://github.com/serhatzunluoglu/Jotform-intern-project/blob/fd87f4ab82e1498cabec804777ddad80493801e8/Jotform-Intern-Project.gif)
