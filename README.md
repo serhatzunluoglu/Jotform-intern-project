@@ -2,15 +2,15 @@
 
 **[🇹🇷]**
 
-Jotform'da stajım boyunca diğer stajyer ekip arkadaşlarımla birlikte yaptığımız real-time olarak çalışan "App Builder" uygulamasına bir <strong>feature(özellik)</strong> eklemesi yaptık. Bu feature ile çok sayfalı app'lerde sayfalar arası gezinmeyi kolaylaştırmayı hedefledik. Eklediğimiz search box ile birlikte aradığımız kelime ile ilgili sonucu karşımıza çıkarıyor ve gelen sonuca tıkladığımızda o kelimenin bulunduğu sayfaya gitmiş oluyoruz. 
+Jotform'da stajım boyunca diğer stajyer ekip arkadaşlarımla birlikte yaptığımız real-time olarak çalışan "App Builder" uygulamasına bir **feature(özellik)** eklemesi yaptık. Bu feature ile çok sayfalı app'lerde **sayfalar arası gezinmeyi kolaylaştırmayı hedefledik**. Eklediğimiz search box ile birlikte aradığımız kelime ile ilgili sonucu karşımıza çıkarıyor ve gelen sonuca tıkladığımızda o kelimenin bulunduğu sayfaya gitmiş oluyoruz. 
 
-Uygulamaya eklediğimiz kodları gizlilik gereği paylaşamıyorum. O yüzden **ekran görüntülerini alt kısma** koyuyorum !!!
+Uygulamaya eklediğimiz **kodları gizlilik gereği paylaşamıyorum**. O yüzden **ekran görüntülerini alt kısma** koyuyorum !!!
 
 **[🇬🇧]**
 
-During my internship at Jotform, I worked with other intern team members to add a <strong>feature</strong> to the real-time "App Builder" application we were working on. With this feature, we aimed to make it easier to navigate between pages in multi-page apps. The search box we added displays the results for the word we are searching for, and when we click on the result, we go to the page where the word is located.
+During my internship at Jotform, I worked with other intern team members to add a **feature** to the real-time "App Builder" application we were working on. With this feature, **we aimed to make it easier to navigate between pages** in multi-page apps. The search box we added displays the results for the word we are searching for, and when we click on the result, we go to the page where the word is located.
 
-I cannot share the code we added to the application for privacy reasons. So I'm putting **screenshots below** !!!
+**I cannot share the code** we added to the application for privacy reasons. So I'm putting **screenshots below** !!!
 
 
 #### Contributors: Başak GÜLDÜRMEZ (UI/UX Designer), Serhat İsmail ZUNLUOĞLU (UI Developer), Emre MERT (Front-End Developer), Utku Boran TOSUN (Back-End Developer)
