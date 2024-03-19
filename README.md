@@ -8,7 +8,7 @@ Uygulamaya eklediğimiz kodları gizlilik gereği paylaşamıyorum. O yüzden **
 
 **[🇬🇧]**
 
-During my internship at Jotform, I worked with other intern team members to add a feature to the real-time "App Builder" application we were working on. With this feature, we aimed to make it easier to navigate between pages in multi-page apps. The search box we added displays the results for the word we are searching for, and when we click on the result, we go to the page where the word is located.
+During my internship at Jotform, I worked with other intern team members to add a <strong>feature</strong> to the real-time "App Builder" application we were working on. With this feature, we aimed to make it easier to navigate between pages in multi-page apps. The search box we added displays the results for the word we are searching for, and when we click on the result, we go to the page where the word is located.
 
 I cannot share the code we added to the application for privacy reasons. So I'm putting **screenshots below** !!!
 
